@@ -1,0 +1,21 @@
+spring:
+  profiles:
+    active: db, core, admin, wx
+  message:
+    encoding: UTF-8
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root:  DEBUG
+    org.springframework:  DEBUG
+    org.mybatis:  DEBUG
+#    定义litemall-core模块的日志级别
+    org.linlinjava.litemall.core:  DEBUG
+#    定义litemall-db模块的日志级别
+    org.linlinjava.litemall.db:  DEBUG
+    org.linlinjava.litemall.admin:  DEBUG
+    org.linlinjava.litemall.wx:  DEBUG
+    org.linlinjava.litemall:  DEBUG
