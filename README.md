@@ -175,20 +175,3 @@ V 3.0.0 完成以下目标：
 
    项目参考：litemall项目的litemall-admin模块的一些页面布局样式参考了该项目。
 
-## 问题
-
-![](doc/pic/qq.png)
-
- * 开发者有问题或者好的建议可以用Issues反馈交流，请给出详细信息
- * 在开发交流群中应讨论开发、业务和合作问题
- * 如果真的需要QQ群里提问，请在提问前先完成以下过程：
-    * 请仔细阅读本项目文档，特别是是[**FAQ**](./doc/FAQ.md)，查看能否解决；
-    * 请阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)；
-    * 请百度或谷歌相关技术；
-    * 请查看相关技术的官方文档，例如微信小程序的官方文档；
-    * 请提问前尽可能做一些DEBUG或者思考分析，然后提问时给出详细的错误相关信息以及个人对问题的理解。
-
-## License
-
-[MIT](https://github.com/linlinjava/litemall/blob/master/LICENSE)
-Copyright (c) 2018-present linlinjava
